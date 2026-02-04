@@ -1,3 +1,10 @@
+# 1.0.0 (2026-02-04)
+
+
+### Features
+
+* add initial Next.js + Payload CMS project scaffold ([e9fb28a](https://github.com/m6o4solutions/orly-airpark-production/commit/e9fb28a33ce07f5f6bf5c9df28e0f1c0197de6d9))
+
 # [1.8.0](https://github.com/m6o4solutions/orly-airpark-website-project/compare/v1.7.0...v1.8.0) (2026-01-12)
 
 ### Features
